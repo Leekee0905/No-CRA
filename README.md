@@ -34,5 +34,5 @@ Babel은 ECMAScript 2015+ 코드를 이전 JavaScript 엔진에서 실행할 수
 
 ## 구성
 
-React를 CDN으로 가져온 뒤 html파일과 js파일을 바벨을 통해 트랜스컴파일해준 뒤 웹팩을 통해 JS파일들을 하나로 묶어준다.
+React를 CDN으로 가져온 뒤 html파일과 js파일을 바벨을 통해 트랜스컴파일해준 뒤 웹팩을 통해 JS파일들을 하나로 묶어준다.  
 webpack.config.js에서 개발서버 또한 설정하여 CRA 혹은 VITE처럼 실시간으로 저장하며 변경사항을 확인 할 수 있다.
