@@ -1,9 +1,10 @@
+# CRA 없이 React 개발환경 구성하기
+
+## 프로젝트 구조
+
 ```
 no-cra
 ├─ .babelrc
-├─ dist
-│  ├─ bundle.36a23c1ca850ce33854f.js
-│  └─ index.html
 ├─ package-lock.json
 ├─ package.json
 ├─ README.md
